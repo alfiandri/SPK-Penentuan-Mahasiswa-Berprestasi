@@ -1,0 +1,38 @@
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\bin\Debug\SPK Penentuan Mahasiswa Berprestasi.exe
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\bin\Debug\SPK Penentuan Mahasiswa Berprestasi.pdb
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\bin\Debug\SPK Penentuan Mahasiswa Berprestasi.xml
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\ResolveAssemblyReference.cache
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.FrmMenu.resources
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.Resources.resources
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK Penentuan Mahasiswa Berprestasi.vbproj.GenerateResource.Cache
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK Penentuan Mahasiswa Berprestasi.exe
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK Penentuan Mahasiswa Berprestasi.xml
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK Penentuan Mahasiswa Berprestasi.pdb
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.FrmDataMahasiswa.resources
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.FrmKriteria.resources
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.FrmPenilaian.resources
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.FrmLogin.resources
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.FrmAdmin.resources
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.SplashScreen1.resources
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.FrmAboutMe.resources
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.FrmFilterLaporan.resources
+D:\alfi\VB\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.FrmLaporan.resources
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK Penentuan Mahasiswa Berprestasi.exe
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK Penentuan Mahasiswa Berprestasi.xml
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK Penentuan Mahasiswa Berprestasi.pdb
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\bin\Debug\SPK Penentuan Mahasiswa Berprestasi.exe
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\bin\Debug\SPK Penentuan Mahasiswa Berprestasi.pdb
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\bin\Debug\SPK Penentuan Mahasiswa Berprestasi.xml
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\ResolveAssemblyReference.cache
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.FrmAboutMe.resources
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.FrmAdmin.resources
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.FrmDataMahasiswa.resources
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.FrmFilterLaporan.resources
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.FrmKriteria.resources
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.FrmLaporan.resources
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.FrmLogin.resources
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.FrmMenu.resources
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.FrmPenilaian.resources
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.Resources.resources
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK_Penentuan_Mahasiswa_Berprestasi.SplashScreen1.resources
+D:\SPK Penentuan Mahasiswa Berprestasi\SPK Penentuan Mahasiswa Berprestasi\obj\Debug\SPK Penentuan Mahasiswa Berprestasi.vbproj.GenerateResource.Cache
